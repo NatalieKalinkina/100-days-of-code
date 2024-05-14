@@ -2,4 +2,4 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 001 | May, 14 |  | add adaptive for [tag-game](https://github.com/NatalieKalinkina/tag-game) |
+| 001 | May, 14 | Part 1 (TypeScript Intro) in TS course | add adaptive for [tag-game](https://github.com/NatalieKalinkina/tag-game) |
