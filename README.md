@@ -2,4 +2,4 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 001 | May, 14 |  |  |
+| 001 | May, 14 |  | add adaptive for [tag-game](https://github.com/NatalieKalinkina/tag-game) |
