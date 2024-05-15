@@ -2,4 +2,5 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 001 | May, 14 | Part 1 (TypeScript Intro) in TS course | add adaptive for [tag-game](https://github.com/NatalieKalinkina/tag-game) |
+| 002 | May, 15 | TS course - tsconfig.json; primitives, functions, objects, arrays, literal, special types; type aliases|  |
+| 001 | May, 14 | TS course - TypeScript Intro | add adaptive for [tag-game](https://github.com/NatalieKalinkina/tag-game) |
