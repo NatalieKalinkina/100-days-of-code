@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 008 | May, 28 | read [this article](https://practicum.yandex.ru/blog/chto-takoe-er-diagramma/) about Entity-Relationship-Diagram (ERD) | build ERD for darts project using Martin notation |
 | 007 | May, 27 | started to learn Nest.JS: watched [video-course](https://www.youtube.com/watch?v=C5qzO7tsybQ&ab_channel=REDGroup) and started to read documentation |  |
 | 006 | May, 20 |  | [wishlist-api](https://github.com/NatalieKalinkina/wishlist-api): remove wish schema; add route for adding wish to wishlist |
 | 005 | May, 18 |  | [wishlist-api](https://github.com/NatalieKalinkina/wishlist-api): add schemes, controllers, routes, auth middleware and error handling |
