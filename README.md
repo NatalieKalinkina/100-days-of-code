@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 011 | May, 31 | studied how to create entity (NestJS + PostrgeSQL + TypeORM) | add player entity to darts-project |
 | 010 | May, 30 | refresh my memory about [OOP](https://www.youtube.com/watch?v=-6DWwR_R4Xk&ab_channel=UlbiTV) |  |
 | 009 | May, 29 | refresh my memory about [eventloop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf) | finalized ERD for darts project |
 | 008 | May, 28 | read [this article](https://practicum.yandex.ru/blog/chto-takoe-er-diagramma/) about Entity-Relationship-Diagram (ERD) | build ERD for darts project using Martin notation |
