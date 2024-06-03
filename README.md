@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 012 | June, 03 | found frontend developer roadmap and compiled topic list for learning; finished reading about closures (You don't know JS, Kyle Simpson) and watched some videos about closures on YouTube; refreshed my memory about CSS specificity; read the topic about resume creating | refresh resume on hh.ru |
 | 011 | May, 31 | studied how to create entity (NestJS + PostrgeSQL + TypeORM) | added player entity to darts-project |
 | 010 | May, 30 | refreshed my memory about [OOP](https://www.youtube.com/watch?v=-6DWwR_R4Xk&ab_channel=UlbiTV); watched [video-course](https://www.youtube.com/watch?v=C5qzO7tsybQ&t=731s&ab_channel=REDGroup) on NestJS |  |
 | 009 | May, 29 | refreshed my memory about [eventloop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf) | finalized ERD for darts project |
