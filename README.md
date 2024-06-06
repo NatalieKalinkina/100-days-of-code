@@ -2,6 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 015 | June, 06 | read and watched video about *this*; watched video lecture about FSD architectural methodology|  |
+| 014 | June, 05 |  | added player service and controller to darts-project |
 | 013 | June, 04 | finished reading Part I "Scope and Closures" of "You don't know JS", Kyle Simpson; refreshed my memory about hoisting, try/catch, reference and primitive data types; watched video about Babel and polyfills | refreshed resume on habr.com; solved some js tests|
 | 012 | June, 03 | found frontend developer roadmap and compiled topic list for learning; finished reading about closures (You don't know JS, Kyle Simpson) and watched some videos about closures on YouTube; refreshed my memory about CSS specificity; read the topic about resume creating | refreshed resume on hh.ru |
 | 011 | May, 31 | studied how to create entity (NestJS + PostrgeSQL + TypeORM) | added player entity to darts-project |
