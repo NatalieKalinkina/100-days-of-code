@@ -2,9 +2,9 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 018 | June, 11 |  | career course: wrote cover letter and submitted all projects for review;  |
+| 018 | June, 11 | refreshed my memory about capturing and bubbling | career course: wrote cover letter and submitted all projects for review |
 | 017 | June, 10 |  | updated local repository on darts project; darts-project: began to add changes to player component because of new user component |
-| 016 | June, 07 |  | completed career course tasks: started a job search diary and created portfolio |
+| 016 | June, 07 |  | career course: started a job search diary and created portfolio |
 | 015 | June, 06 | read and watched video about *this*; watched video lecture about FSD architectural methodology |  |
 | 014 | June, 05 |  | added player service and controller to darts-project |
 | 013 | June, 04 | finished reading Part I "Scope and Closures" of "You don't know JS", Kyle Simpson; refreshed my memory about hoisting, try/catch, reference and primitive data types; watched video about Babel and polyfills | refreshed resume on habr.com; solved some js tests |
