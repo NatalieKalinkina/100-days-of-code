@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 019 | June, 13 |  | darts project: connected Players entity to users, updated dto and services|
 | 018 | June, 11 | refreshed my memory about capturing and bubbling | career course: wrote cover letter and submitted all projects for review |
 | 017 | June, 10 |  | updated local repository on darts project; darts-project: began to add changes to player component because of new user component |
 | 016 | June, 07 |  | memory game deploy; career course: started job search diary and created portfolio |
