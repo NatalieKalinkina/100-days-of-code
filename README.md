@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 020 | June, 14 | started to refresh my knowledge about classes and *this* | darts project: updated controller, added exceptions, added region checking |
+| 020 | June, 14 | started to refresh my knowledge about classes and *new* | darts project: updated controller, added exceptions, added region checking |
 | 019 | June, 13 |  | darts project: connected Players entity to users, updated dto and services |
 | 018 | June, 11 | refreshed my knowledge about capturing and bubbling | career course: wrote cover letter and submitted all projects for review |
 | 017 | June, 10 |  | updated local repository on darts project; darts-project: began to add changes to player component because of new user component |
