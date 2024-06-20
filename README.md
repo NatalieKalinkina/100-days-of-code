@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 023 | June, 20 | career course: read about CV and cover letter adaptation, self-presentation and interview | darts-project: change players-users relations |
 | 022 | June, 18 |  | career course: wrote my own job search strategy; made list of hard skills I need to master |
 | 021 | June, 17 | career course: read about job search strategy |  |
 | 020 | June, 14 | started to refresh my knowledge about classes and *new* | darts project: updated controller, added exceptions, added region checking |
