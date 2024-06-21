@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 024 | June, 21 |refreshed my knowledge about classes, async/await and setTimeout, setInterval | darts-project: fixed region update, changed logic of player creating; leetcode: solved two problems |
 | 023 | June, 20 | career course: read about CV and cover letter adaptation, self-presentation and interview | darts-project: change players-users relations |
 | 022 | June, 18 |  | career course: wrote my own job search strategy; made list of hard skills I need to master |
 | 021 | June, 17 | career course: read about job search strategy |  |
