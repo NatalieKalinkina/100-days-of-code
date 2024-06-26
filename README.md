@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 027 | June, 26 |  | darts-project: created tournaments resource, added tournaments entity; career course: prepared answers for self-presentation |
 | 026 | June, 25 |  | darts-project: updated database schema; changed logic of creating player following yesterday team sync; finished *player entity task* and created PR |
 | 025 | June, 24 | read about SOLID, DRY, KISS patterns; refreshed my knowledge about React Component Lifecycle Methods | darts-project: add email to player entity |
 | 024 | June, 21 |refreshed my knowledge about classes, async/await and setTimeout, setInterval | darts-project: fixed region update, changed logic of player creating; leetcode: solved two problems |
