@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 028 | June, 27 |  | darts-project: added tournaments dto, exception and error codes, controller & basis for service |
 | 027 | June, 26 |  | darts-project: created tournaments resource, added tournaments entity; career course: prepared answers for self-presentation |
 | 026 | June, 25 |  | darts-project: updated database schema; changed logic of creating player following yesterday team sync; finished *player entity task* and created PR |
 | 025 | June, 24 | read about SOLID, DRY, KISS patterns; refreshed my knowledge about React Component Lifecycle Methods | darts-project: add email to player entity |
