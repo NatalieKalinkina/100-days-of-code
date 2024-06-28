@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 029 | June, 28 | React hooks: useMemo, useRef, useCallback & custome hooks| |
 | 028 | June, 27 |  | darts-project: added tournaments dto, exception and error codes, controller & basis for service; career-course: recorded video interview and sent for review |
 | 027 | June, 26 |  | darts-project: created tournaments resource, added tournaments entity; career course: prepared answers for self-presentation |
 | 026 | June, 25 |  | darts-project: updated database schema; changed logic of creating player following yesterday team sync; finished *player entity task* and created PR |
