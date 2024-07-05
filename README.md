@@ -2,6 +2,11 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 034 | Jule, 05 | Angular: read documentation, watched video-courses | Angular test-task |
+| 033 | Jule, 04 | Angular: read documentation, watched video-courses | Angular test-task |
+| 032 | Jule, 03 | Angular: read documentation, watched video-courses | Angular test-task |
+| 031 | Jule, 02 | Angular: read documentation, watched video-courses | Angular test-task |
+| 030 | Jule, 01 | Angular: read documentation, watched video-courses | Angular test-task |
 | 029 | June, 28 | React hooks: useMemo, useRef, useCallback & custome hooks| |
 | 028 | June, 27 |  | darts-project: added tournaments dto, exception and error codes, controller & basis for service; career-course: recorded video interview and sent for review |
 | 027 | June, 26 |  | darts-project: created tournaments resource, added tournaments entity; career course: prepared answers for self-presentation |
