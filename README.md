@@ -2,6 +2,9 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 037 | Jule, 10 | Sololearn Angular course |  |
+| 036 | Jule, 09 | | Angular test-task: fix logout fn, fix time bag |
+| 035 | Jule, 08 |  | darts-project: finalized *tournaments entity task* and created PR |
 | 034 | Jule, 05 | Angular: read documentation, watched video-courses | Angular test-task |
 | 033 | Jule, 04 | Angular: read documentation, watched video-courses | Angular test-task |
 | 032 | Jule, 03 | Angular: read documentation, watched video-courses | Angular test-task |
